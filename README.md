@@ -1,4 +1,4 @@
- - 🙋‍♂️ Hey, I am Manish
+ - 🙋‍♂️ Hey, I am @Manish-XD
  - 👀 I’m interested in coding and graphic designing
  - 🌱 I’m currently learning Python and C++
  - 💻 I know basic of HTML and CSS
