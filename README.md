@@ -6,13 +6,14 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media1.giphy.com/media/hr9TmXTveS8jrx8OtK/giphy.gif?cid=ecf05e47hr5rmyekl7iukxr6omx0ogni30045vyl4rryfq4i&rid=giphy.gif&ct=s" width="30"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media0.giphy.com/media/lZNn9453ha2veDGj8r/giphy.gif?cid=ecf05e47hr5rmyekl7iukxr6omx0ogni30045vyl4rryfq4i&rid=giphy.gif&ct=s" width="30"></h3>
+<h3><img src="https://media1.giphy.com/media/hr9TmXTveS8jrx8OtK/giphy.gif?cid=ecf05e47hr5rmyekl7iukxr6omx0ogni30045vyl4rryfq4i&rid=giphy.gif&ct=s" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media3.giphy.com/media/dBAzFkcLmuRJJOFhj0/giphy.gif?cid=ecf05e47u8s3pq5kyv0fhgum0wy2aqmiyuqga91q85tdx8bv&rid=giphy.gif&ct=s" width="30"></h3>
 </div>
 
 <h1>About ME 💬 :</h1>
 
 <br />
-<img align="right" height="450px" width="450px" alt="GIF" src="https://c.tenor.com/waCiJuYgAEAAAAAC/gojo-satoru.gif" />
+<div>
+<img align="right" height="250px" width="300px" alt="GIF" src="https://c.tenor.com/waCiJuYgAEAAAAAC/gojo-satoru.gif" />
 
  - 🌱 I’m currently learning Data Structures and Algorithms.
  
@@ -23,7 +24,12 @@
  - 🦋 Kinda loves Anime
  
  - 📫 How to reach me? 👉🏼 llmanishsharma17ll@gmail.com
+</div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -68,7 +74,7 @@
 <br/>
 <h1></h1>
 <div align="center">
-<h2 align="center">Sayonara <img src="https://media2.giphy.com/media/IdLrV7rsEkIllrENwI/giphy.gif?cid=ecf05e47huyfx1plodw5nbarij9v9c7atwvb4r8lsi11ycc9&rid=giphy.gif&ct=s" width="25px"></h2>
+<p >Sayonara <img src="https://media2.giphy.com/media/IdLrV7rsEkIllrENwI/giphy.gif?cid=ecf05e47huyfx1plodw5nbarij9v9c7atwvb4r8lsi11ycc9&rid=giphy.gif&ct=s" width="10px"></p>
 <br/>
-<img align="center" src="https://media1.giphy.com/media/Q7pmmDVQ6AixW/giphy.gif?cid=ecf05e475ywvpqc4voqgvl1wz5i3q90wq1k9bqzjup54084n&rid=giphy.gif&ct=g">
+<img src="https://media1.giphy.com/media/Q7pmmDVQ6AixW/giphy.gif?cid=ecf05e475ywvpqc4voqgvl1wz5i3q90wq1k9bqzjup54084n&rid=giphy.gif&ct=g">
 </div>
