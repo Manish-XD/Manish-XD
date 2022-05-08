@@ -6,8 +6,12 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media1.giphy.com/media/hr9TmXTveS8jrx8OtK/giphy.gif?cid=ecf05e47hr5rmyekl7iukxr6omx0ogni30045vyl4rryfq4i&rid=giphy.gif&ct=s" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media3.giphy.com/media/dBAzFkcLmuRJJOFhj0/giphy.gif?cid=ecf05e47u8s3pq5kyv0fhgum0wy2aqmiyuqga91q85tdx8bv&rid=giphy.gif&ct=s" width="30"></h3>
+<h3><img src="https://media0.giphy.com/media/lnz9SO8yVSS8dkeRqH/giphy.gif?cid=ecf05e47e6wsqqvcs6fyoolzail0o1vpmc7g0n53ormsvjtm&rid=giphy.gif&ct=s" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media3.giphy.com/media/dBAzFkcLmuRJJOFhj0/giphy.gif?cid=ecf05e47u8s3pq5kyv0fhgum0wy2aqmiyuqga91q85tdx8bv&rid=giphy.gif&ct=s" width="30"></h3>
 </div>
+
+<br/>
+<br/>
+<br/>
 
 <h1>About ME 💬 :</h1>
 
@@ -35,19 +39,19 @@
 <br/>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Manish-XD&&show_icons=true&theme=cobalt"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Manish-XD&&show_icons=true&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-XD&layout=compact&theme=cobalt"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-XD&layout=compact&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-XD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-XD&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -74,7 +78,7 @@
 <br/>
 <h1></h1>
 <div align="center">
-<p >Sayonara <img src="https://media2.giphy.com/media/IdLrV7rsEkIllrENwI/giphy.gif?cid=ecf05e47huyfx1plodw5nbarij9v9c7atwvb4r8lsi11ycc9&rid=giphy.gif&ct=s" width="10px"></p>
+<h3 >Sayonara <img src="https://media2.giphy.com/media/IdLrV7rsEkIllrENwI/giphy.gif?cid=ecf05e47huyfx1plodw5nbarij9v9c7atwvb4r8lsi11ycc9&rid=giphy.gif&ct=s" width="15px"></h3>
 <br/>
 <img src="https://media1.giphy.com/media/Q7pmmDVQ6AixW/giphy.gif?cid=ecf05e475ywvpqc4voqgvl1wz5i3q90wq1k9bqzjup54084n&rid=giphy.gif&ct=g">
 </div>
