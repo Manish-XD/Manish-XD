@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Konnichiwa, I'm <a href="https://www.linkedin.com/in/manish-sharma-2a6778212/">Manish</a> <img src="https://media3.giphy.com/media/lN43HqgTKEczYIPMnK/giphy.gif?cid=ecf05e47b2kjotf69we5zyyj06es4hs7ldumnm8rcz9ybrh3&rid=giphy.gif&ct=s" width="25px"> </h1>
+   <h1>Konnichiwa, I'm <a href="https://www.linkedin.com/in/manish-sharma-2a6778212/">Manish</a> <img src="https://im4.ezgif.com/tmp/ezgif-4-2e2fea729a.gif" width="25px"> </h1>
    
    
    <img src="https://media1.giphy.com/media/37Md3lHS7s6k2tHIp7/giphy.gif"> 
