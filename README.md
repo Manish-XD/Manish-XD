@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media0.giphy.com/media/lnz9SO8yVSS8dkeRqH/giphy.gif?cid=ecf05e47e6wsqqvcs6fyoolzail0o1vpmc7g0n53ormsvjtm&rid=giphy.gif&ct=s" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media3.giphy.com/media/dBAzFkcLmuRJJOFhj0/giphy.gif?cid=ecf05e47u8s3pq5kyv0fhgum0wy2aqmiyuqga91q85tdx8bv&rid=giphy.gif&ct=s" width="30"></h3>
+<h3><img src="https://im4.ezgif.com/tmp/ezgif-4-5d1010ed16.gif" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="https://media3.giphy.com/media/dBAzFkcLmuRJJOFhj0/giphy.gif?cid=ecf05e47u8s3pq5kyv0fhgum0wy2aqmiyuqga91q85tdx8bv&rid=giphy.gif&ct=s" width="30"></h3>
 </div>
 
 <br/>
@@ -54,7 +54,7 @@
     </a>
 </p>
 
-<h1><img src="https://media2.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47v6iltubbjsqfvalx6ca5za9nxughsy3cbf6jwltv&rid=giphy.gif&ct=s" width="25px"> Languages and Tools :</h1>
+<h1><img src="https://im4.ezgif.com/tmp/ezgif-4-8d5de6a725.gif" width="25px"> Languages and Tools :</h1>
 
 <p align="center">
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="javascript" style="vertical-align:top; margin:4px" >
@@ -77,7 +77,7 @@
 <br/>
 <h1></h1>
 <div align="center">
-<h3 >Sayonara <img src="https://media2.giphy.com/media/IdLrV7rsEkIllrENwI/giphy.gif?cid=ecf05e47huyfx1plodw5nbarij9v9c7atwvb4r8lsi11ycc9&rid=giphy.gif&ct=s" width="15px"></h3>
+<h3 >Sayonara <img src="https://im4.ezgif.com/tmp/ezgif-4-31aec45fdf.gif" width="15px"></h3>
 <br/>
 <img src="https://media1.giphy.com/media/Q7pmmDVQ6AixW/giphy.gif?cid=ecf05e475ywvpqc4voqgvl1wz5i3q90wq1k9bqzjup54084n&rid=giphy.gif&ct=g">
 </div>
