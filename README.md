@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Manish-XD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+new+things;Full-stack+web+developer&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&size=22&pause=1000"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+new+things;Full-stack+web+developer&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&size=22&pause=1000">
 </p>
 
 <div align="center">
