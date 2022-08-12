@@ -40,7 +40,7 @@
 <br/>
 <br/>
 <a>
-<img src="https://raw.githubusercontent.com/Manish-XD/github-stats/2ff3c556a3e8b9d7995070811cfe140cf4481c84/generated/overview.svg?token=AUXBWSTGAJR6A6KWD5GP75TC6YXMU" alt="404"/>
+<img src=https://raw.githubusercontent.com/Manish-XD/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAABVQNYQOJR7HFARQMFPGXFPGYXWOASQ" alt="404"/>
 </a>
 </div>
 
