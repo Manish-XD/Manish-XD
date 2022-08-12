@@ -39,8 +39,8 @@
 -   📫 How to reach me? 👉🏼 llmanishsharma17ll@gmail.com
 <br/>
 <br/>
-<a href="#macropower-title">
-<img src="https://raw.githubusercontent.com/Manish-XD/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAABVQNYQPEUFNSKHERZH4LIHQYXWCRFQ" alt="macropower"/>
+<a>
+<img src="https://raw.githubusercontent.com/Manish-XD/github-stats/2ff3c556a3e8b9d7995070811cfe140cf4481c84/generated/overview.svg?token=AUXBWSTGAJR6A6KWD5GP75TC6YXMU" alt="404"/>
 </a>
 </div>
 
