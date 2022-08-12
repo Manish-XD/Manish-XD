@@ -1,3 +1,5 @@
+<!-- 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 -->
+
 <div align="center">
    <h1>Konnichiwa, I'm <a href="https://www.linkedin.com/in/manish-sharma-2a6778212/">Manish</a> <img src="gif1.gif" width="25px"> </h1>
    
@@ -5,8 +7,15 @@
    <img src="https://media1.giphy.com/media/37Md3lHS7s6k2tHIp7/giphy.gif"> 
 </div>
 
+<p align="center">
+<a href="https://github.com/Manish-XD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+new+things;Full-stack+web+developer&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 <div align="center">
-<h3><img src="gif2.gif" width="30px"> 🤹 Manish | 💻 Frontend Developer | 🌎 India <img src="gif3.gif" width="30"></h3>
+<h3><img src="gif2.gif" width="30px">  <a href="https://github.com/Manish-XD?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Manish-XD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Manish-XD?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Manish-XD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><img src="gif3.gif" width="30"></h3>
 </div>
 
 <br/>
@@ -17,31 +26,40 @@
 
 <br />
 <div>
+    
 <img align="right" height="250px" width="300px" alt="GIF" src="https://c.tenor.com/waCiJuYgAEAAAAAC/gojo-satoru.gif" />
 
- - 🌱 I’m currently learning Data Structures and Algorithms.
- 
- - 👯 I’m looking to collaborate on OpenSource Projects
-   
- - 💻 I know basic of HTML and CSS 
- 
- - 🦋 Kinda loves Anime
- 
- - 📫 How to reach me? 👉🏼 llmanishsharma17ll@gmail.com
+-   🌱 I’m currently learning Data Structures and Algorithms.
+
+-   👯 I’m looking to collaborate on OpenSource Projects
+-   💻 I know basic of HTML and CSS
+
+-   🦋 Kinda loves Anime
+
+-   📫 How to reach me? 👉🏼 llmanishsharma17ll@gmail.com
+<br/>
+<br/>
+<a href="#macropower-title">
+<img src="https://raw.githubusercontent.com/Manish-XD/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAABVQNYQPEUFNSKHERZH4LIHQYXWCRFQ" alt="macropower"/>
+</a>
 </div>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<h2>Github Stats 📈:</h2>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Manish-XD&&show_icons=true&theme=radical"/>
   </a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manish-XD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-XD&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
+<br/>
+<br/>
 
 <h1><img src="gif4.gif" width="25px"> Languages and Tools :</h1>
 
