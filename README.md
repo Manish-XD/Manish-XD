@@ -15,7 +15,7 @@
 <h3><img src="gif2.gif" width="30px">  <a href="https://github.com/Manish-XD?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Manish-XD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Manish-XD?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Manish-XD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><img src="gif3.gif" width="30"></h3>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Manish-XD?color=61F727&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><img src="gif3.gif" width="30"></h3>
 </div>
 
 <br/>
@@ -40,7 +40,7 @@
 <br/>
 <br/>
 <a>
-<img src="https://github.com/Manish-XD/github-stats/blob/master/generated/overview.svg" style="width:25vw">
+<img src="https://github.com/Manish-XD/github-stats/blob/master/generated/overview.svg">
 </a>
 </div>
 
