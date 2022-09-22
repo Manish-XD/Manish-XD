@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+new+things;Full-stack+web+developer&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&size=22&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+learning+new+things;Full+stack+web+developer&center=true&width=440&height=45&Center=true&size=22&pause=1000">
 </p>
 
 <div align="center">
@@ -64,21 +64,27 @@
 <h1><img src="gif4.gif" width="25px"> Languages and Tools :</h1>
 
 <p align="center">
+  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React.js" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  alt="Node.js" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"  alt="Express.js" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="javascript" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"  alt="pyhton" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  alt="C++" style="vertical-align:top; margin:4px" >
-  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React.js" style="vertical-align:top; margin:4px" > 
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML" style="vertical-align:top; margin:4px" >
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"  alt="MongoDB" style="vertical-align:top; margin:4px" >
-  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  alt="Node.js" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Boorstrap" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  alt="Tailwind" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  alt="Material-UI" style="vertical-align:top; margin:4px" > 
    <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  alt="Netlify" style="vertical-align:top; margin:4px" >
+   <img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"  alt="heroku" style="vertical-align:top; margin:4px" >
+   <img src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  alt="vercel" style="vertical-align:top; margin:4px" >
   <img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" style="vertical-align:top; margin:4px" > 
   <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"  alt="Canva" style="vertical-align:top; margin:4px" > 
   <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="Figma" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  alt="Git" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="Github" style="vertical-align:top; margin:4px" >
 
 <br/>
 <br/>
