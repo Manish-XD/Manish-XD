@@ -36,7 +36,7 @@
 
 -   🦋 Kinda loves Anime
 
--   📫 How to reach me? 👉🏼 llmanishsharma17ll@gmail.com
+-   📫 How to reach me? 👉🏼 manishsharma.cpp@gmail.com
 <br/>
 <br/>
 <a>
