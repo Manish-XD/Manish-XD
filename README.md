@@ -64,7 +64,7 @@
 <h1><img src="gif4.gif" width="25px"> Languages and Tools :</h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"  alt="Golang" style="vertical-align:top; margin:4px" >
+   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"  alt="Golang" style="vertical-align:top; margin:4px" >
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="ReactNative" style="vertical-align:top; margin:4px" > 
   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="React.js" style="vertical-align:top; margin:4px" > 
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  alt="Node.js" style="vertical-align:top; margin:4px" >
